@@ -1,6 +1,6 @@
 {
-  "name": "@tuan149/api-wind",
-  "version": "1.0.0",
+  "name": "@tuan149/api-fog",
+  "version": "1.0.1",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tuan149/api-rain.git"
+    "url": "https://github.com/tuan149/api-fog.git"
   },
   "author": "tuan149",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tuan149/api-rain/issues"
+    "url": "https://github.com/tuan149/api-fog/issues"
   },
-  "homepage": "https://github.com/tuan149/api-rain#readme",
+  "homepage": "https://github.com/tuan149/api-fog#readme",
   "dependencies": {
     "@kazaferixm/api-light": "^1.0.0",
     "@kazaferixm/api-rainny": "^1.0.9",
